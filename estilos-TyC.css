@@ -131,4 +131,8 @@ input:checked ~ .tab-content {
   font-weight: 700;
   margin: 10px 0px;
 }
+
+.sublabel {
+  background: #3487a2;
+}
 /*# sourceMappingURL=estilos-TyC.css.map */
